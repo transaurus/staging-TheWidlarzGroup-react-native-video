@@ -1,0 +1,10 @@
+{
+  "sourceUrl": "https://github.com/TheWidlarzGroup/react-native-video",
+  "branch": "master",
+  "docusaurusRoot": "docs",
+  "configFile": "docs/docusaurus.config.ts",
+  "translateCommand": "bun run write-translations",
+  "buildCommand": "bun run build",
+  "buildOutput": "build",
+  "packageManager": "bun"
+}
